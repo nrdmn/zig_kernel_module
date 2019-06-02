@@ -1,0 +1,6 @@
+libmy_module.a
+my_module.h
+my_module.o
+stub.o
+.stub.o.cmd
+zig-cache
